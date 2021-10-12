@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap";
+.taskpage {
+  padding: 32px;
+
+  .com-addcard {
+    margin-bottom: 16px;
+  }
+
+  .com-cardlist > div {
+    .btn-func {
+      .btn {
+        width: 100%;
+        max-width: 100%;
+      }
+    }
+  }
+}
