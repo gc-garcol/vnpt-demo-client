@@ -1,3 +1,12 @@
+# DEMO
+![demo](./docs/flow.gif)
+
+# Run
+```bash
+npm install
+npm start
+```
+
 # Useful links
 1.  [reducing-boilerplate](https://redux.js.org/usage/reducing-boilerplate)
 2.  [redux devtools extension](https://www.npmjs.com/package/redux-devtools-extension)
